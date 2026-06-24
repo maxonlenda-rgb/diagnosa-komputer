@@ -1,0 +1,17 @@
+[
+  {"kode":"G01","nama":"Komputer/Laptop tidak dapat menyala"},
+  {"kode":"G02","nama":"Lampu indikator power tidak menyala"},
+  {"kode":"G03","nama":"Layar monitor blank atau hitam"},
+  {"kode":"G04","nama":"Komputer sering restart sendiri"},
+  {"kode":"G05","nama":"Komputer mati mendadak saat digunakan"},
+  {"kode":"G06","nama":"Muncul bunyi beep saat startup"},
+  {"kode":"G07","nama":"Kinerja komputer sangat lambat"},
+  {"kode":"G08","nama":"Sistem operasi gagal booting"},
+  {"kode":"G09","nama":"Keyboard tidak berfungsi"},
+  {"kode":"G10","nama":"Mouse atau touchpad tidak berfungsi"},
+  {"kode":"G11","nama":"Baterai laptop tidak dapat mengisi daya"},
+  {"kode":"G12","nama":"Laptop cepat panas (overheating)"},
+  {"kode":"G13","nama":"Kipas pendingin berbunyi keras atau tidak berputar"},
+  {"kode":"G14","nama":"Port USB tidak terdeteksi atau tidak berfungsi"},
+  {"kode":"G15","nama":"Komputer sering mengalami hang atau freeze"}
+]

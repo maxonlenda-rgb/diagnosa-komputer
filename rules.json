@@ -1,0 +1,20 @@
+[
+  {"kode":"R01","kondisi":["G04","G06","G15"],"hasil":"P01","cf_pakar":0.95},
+  {"kode":"R02","kondisi":["G06","G08","G15"],"hasil":"P01","cf_pakar":0.90},
+  {"kode":"R03","kondisi":["G04","G08","G06"],"hasil":"P01","cf_pakar":0.85},
+  {"kode":"R04","kondisi":["G04","G06"],"hasil":"P01","cf_pakar":0.80},
+  {"kode":"R05","kondisi":["G06","G15"],"hasil":"P01","cf_pakar":0.75},
+
+  {"kode":"R06","kondisi":["G07","G08","G15"],"hasil":"P02","cf_pakar":0.95},
+  {"kode":"R07","kondisi":["G07","G08"],"hasil":"P02","cf_pakar":0.90},
+  {"kode":"R08","kondisi":["G07","G15"],"hasil":"P02","cf_pakar":0.85},
+  {"kode":"R09","kondisi":["G08","G15"],"hasil":"P02","cf_pakar":0.80},
+
+  {"kode":"R10","kondisi":["G01","G02","G11"],"hasil":"P03","cf_pakar":0.95},
+  {"kode":"R11","kondisi":["G01","G02"],"hasil":"P03","cf_pakar":0.90},
+  {"kode":"R12","kondisi":["G01","G11"],"hasil":"P03","cf_pakar":0.85},
+
+  {"kode":"R13","kondisi":["G05","G12","G13"],"hasil":"P04","cf_pakar":0.95},
+  {"kode":"R14","kondisi":["G12","G13"],"hasil":"P04","cf_pakar":0.90},
+  {"kode":"R15","kondisi":["G03"],"hasil":"P05","cf_pakar":0.80}
+]

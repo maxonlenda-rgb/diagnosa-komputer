@@ -1,0 +1,32 @@
+[
+  {
+    "kode":"P01",
+    "nama":"Kerusakan RAM",
+    "deskripsi":"RAM mengalami gangguan, tidak terpasang dengan benar, atau mengalami kerusakan fisik.",
+    "solusi":"Lepas pasang RAM, bersihkan pin RAM, atau ganti RAM."
+  },
+  {
+    "kode":"P02",
+    "nama":"Kerusakan Hard Disk/SSD",
+    "deskripsi":"Media penyimpanan mengalami kerusakan sehingga sistem lambat atau gagal booting.",
+    "solusi":"Cek kesehatan hard disk/SSD dan ganti jika rusak."
+  },
+  {
+    "kode":"P03",
+    "nama":"Kerusakan Power Supply/Baterai",
+    "deskripsi":"Perangkat tidak mendapatkan suplai daya yang cukup.",
+    "solusi":"Periksa adaptor, kabel daya, baterai, atau power supply."
+  },
+  {
+    "kode":"P04",
+    "nama":"Overheating",
+    "deskripsi":"Sistem pendingin tidak bekerja optimal sehingga suhu perangkat terlalu tinggi.",
+    "solusi":"Bersihkan kipas, ganti pasta termal, dan pastikan ventilasi lancar."
+  },
+  {
+    "kode":"P05",
+    "nama":"Kerusakan Monitor/LCD",
+    "deskripsi":"Layar tidak menampilkan gambar dengan normal.",
+    "solusi":"Periksa kabel LCD atau monitor dan ganti komponen yang rusak."
+  }
+]
